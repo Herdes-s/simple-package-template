@@ -1,27 +1,26 @@
-# package_name
+# soma_saudacao
 
 Description. 
-The package package_name is used to:
+The package soma_saudacao is used to:
 	- 
 	-
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install soma_saudacao
 
 ```bash
-pip install package_name
+pip install soma_saudacao
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from soma_saudacao import soma, saudacao
 ```
 
 ## Author
-My_name
+Herdes
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
